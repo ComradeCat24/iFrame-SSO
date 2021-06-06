@@ -1,8 +1,8 @@
 # iFrame SSO
 
-    Using iFrame to communicate Single Sign-On
+    Using iFrame to communicate Single Sign-On Tokens in an React Application
 
-![Alt text](https://github.com/ComradeCat24/iFrame-SSO/blob/main/iframe-meme.jpeg)
+![Alt meme-text](https://github.com/ComradeCat24/iFrame-SSO/blob/main/iframe-meme.jpeg)
 
 ## Built With
 
